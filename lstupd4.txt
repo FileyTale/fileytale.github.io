@@ -1,0 +1,1 @@
+{"upds":{"size":"205kb","version":"3.2","eula":true,"eulasrc":"https://fileytale.github.io/updfl4.txt"},"dtl":[{"detail":"bugfix"},{"detail":"show in folder"},{"detail":"check if the file already exists"},{"detail":"delete permanent"},{"detail":"enable premium"},{"detail":"make a folder"}]}
